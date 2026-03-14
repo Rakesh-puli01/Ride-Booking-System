@@ -88,6 +88,7 @@ public class Main {
                 case 4:
 
                     System.out.println("Exiting system...");
+                    sc.close();
                     System.exit(0);
 
                 default:
